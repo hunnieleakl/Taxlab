@@ -11,7 +11,7 @@
 
 - _Assign multiple accounts for Balance Sheet and Income Statement_
   - Selecting the first account in the list
-  - Hold the Shift key
+  - Hold the **Shift** key
   - Click the last account in the list
   - Select Balance Sheet or Income Statement from the drop list
   - Click Apply button
@@ -20,7 +20,7 @@
 - _Assign multiple accounts for IR10_
   - On Trial Balance page, select IR10
   - Select the first account in the list
-  - Hold the Shift key
+  - Hold the **Shift** key
   - Click the last account in the list
   - Click the cog button of the first account
   - Select relevant category option
