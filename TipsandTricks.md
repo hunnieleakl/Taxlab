@@ -1,6 +1,6 @@
 # **Tips and Tricks to use Taxlab**
 ## Income Tax Return
-1. Trial Balance Uploading
+###### 1. Trial Balance Uploading
 
 Set up trial balance
 https://help.taxlab.online/knowledge-base/au-set-up-a-trial-balance/
@@ -36,7 +36,7 @@ Add a new account mannually, named as "Background", nil amount
 Take all notes you want in this account
 Next year, the person picking up this account will understand what is going on for this company in general and makes appropriate adjustments (if needed)
 
-2. Tax payment transactions
+###### 2. Tax payment transactions
 
 Record tax payments
 https://help.taxlab.online/knowledge-base/nz-record-tax-payments/
@@ -53,13 +53,13 @@ Update the ICA transaction type from Tax Payment workpaper
 When adding a tax payment transaction, click "Impacts the ICA", the ICA transaction type will be automatically selected.
 In case the transaction type is not correct, click that transaction again, click "Save" again, the transaction will be corrected automatically (i.e. Income tax paid/Tax refund will be selected, rather than Other debits/Other Credits)
 
-3. Tax adjustment workpapers added
-4. Tax loss workpapers added
+###### 3. Tax adjustment workpapers added
+###### 4. Tax loss workpapers added
 
-Tax Provision
-1. True-up or Prior Year Adjustment (PPA)
-2. Capex workpaper
-3. Tips to reconcile
+## Tax Provision
+###### 1. True-up or Prior Year Adjustment (PPA)
+###### 2. Capex workpaper
+###### 3. Tips to reconcile
 
 
 
