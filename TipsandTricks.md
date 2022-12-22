@@ -2,10 +2,10 @@
 ## Income Tax Return
 ###### 1. Trial Balance Uploading
 
-Set up trial balance
+- Set up trial balance
 https://help.taxlab.online/knowledge-base/au-set-up-a-trial-balance/
 
-Import Trial Balance
+- Import Trial Balance
 Via Excel - Just copy and paste (not including the header row)
 Via Xero - As long as you have link your Xero account to Taxlab
 
