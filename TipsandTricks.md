@@ -2,20 +2,20 @@
 ## Income Tax Return
 ###### 1. Trial Balance Uploading
 
-- Set up trial balance
+- _Set up trial balance_
 https://help.taxlab.online/knowledge-base/au-set-up-a-trial-balance/
 
-- Import Trial Balance
-Via Excel - Just copy and paste (not including the header row)
-Via Xero - As long as you have link your Xero account to Taxlab
+- _Import Trial Balance_
+  - Via Excel - Just copy and paste (not including the header row)
+  - Via Xero - As long as you have link your Xero account to Taxlab
 
-Assign multiple accounts for Balance Sheet and Income Statement
-Selecting the first account in the list
-Hold the Shift key
-Click the last account in the list
-Select Balance Sheet or Income Statement from the drop list
-Click Apply button
-(By this way, you don't need to click single accounts)
+- _Assign multiple accounts for Balance Sheet and Income Statement_
+  - Selecting the first account in the list
+  - Hold the Shift key
+  - Click the last account in the list
+  - Select Balance Sheet or Income Statement from the drop list
+  - Click Apply button
+  (By this way, you don't need to click single accounts)
 
 Assign multiple accounts for IR10
 On Trial Balance page, select IR10
