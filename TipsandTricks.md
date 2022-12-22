@@ -15,7 +15,7 @@ https://help.taxlab.online/knowledge-base/au-set-up-a-trial-balance/
   - Click the last account in the list
   - Select Balance Sheet or Income Statement from the drop list
   - Click Apply button
-  (By this way, you don't need to click single accounts)
+    (By this way, you don't need to click single accounts)
 
 Assign multiple accounts for IR10
 On Trial Balance page, select IR10
