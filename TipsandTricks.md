@@ -1,5 +1,5 @@
-**Tips and Tricks to use Taxlab**
-Income Tax Return
+# **Tips and Tricks to use Taxlab**
+## Income Tax Return
 1. Trial Balance Uploading
 
 Set up trial balance
